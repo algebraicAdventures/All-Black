@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Magicolo/!Examples/PureData/3.SequenceExample.unity
+  isLoaded: 1
+  isActive: 1
