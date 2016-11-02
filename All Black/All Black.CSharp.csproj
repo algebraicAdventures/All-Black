@@ -188,6 +188,7 @@
     <Compile Include="Assets\Magicolo\GeneralTools\Logger\Logger.cs" />
     <Compile Include="Assets\Magicolo\GeneralTools\Logger\ScreenLogger.cs" />
     <Compile Include="Assets\Magicolo\GeneralTools\Logger\ScreenLoggerLine.cs" />
+    <Compile Include="Assets\Scripts\PDSequencerObject.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Magicolo\README.txt" />

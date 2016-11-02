@@ -1,0 +1,36 @@
+#N canvas 340 401 685 482 10;
+#X declare -path ../Data -path ../Effects -path ../Misc -path ../Signal
+-path ../Sources -path ../Unity;
+#X obj 48 368 outlet~ left;
+#X obj 128 368 outlet~ right;
+#X obj 22 13 declare -path ../Data -path ../Effects -path ../Misc -path
+../Signal -path ../Sources -path ../Unity;
+#X obj 22 46 inlet patterns;
+#X obj 286 46 inlet messages;
+#X obj 286 66 route Play Stop Step Sleep;
+#X text 21 -8 Input:;
+#X obj 52 179 abs_osc_chaosmonster1;
+#X obj 53 249 *~ 0.5;
+#X floatatom 52 94 0 1 1000 0 - - -;
+#X floatatom 52 120 5 -128 128 0 - - -, f 5;
+#X floatatom 91 120 5 0 0 0 - - -, f 5;
+#X obj 91 94 unpack f f f;
+#X floatatom 117 152 5 0.01 3000 0 - - -, f 5;
+#X floatatom 182 116 5 1 999 0 - - -, f 5;
+#X floatatom 188 139 5 0 1 0 - - -, f 5;
+#X floatatom 236 147 5 0 1 0 - - -, f 5;
+#X connect 3 0 12 0;
+#X connect 4 0 5 0;
+#X connect 7 0 8 0;
+#X connect 8 0 0 0;
+#X connect 8 0 1 0;
+#X connect 9 0 7 0;
+#X connect 10 0 7 1;
+#X connect 11 0 7 2;
+#X connect 12 0 7 3;
+#X connect 12 1 7 4;
+#X connect 12 2 7 6;
+#X connect 13 0 7 5;
+#X connect 14 0 7 7;
+#X connect 15 0 7 8;
+#X connect 16 0 7 9;
