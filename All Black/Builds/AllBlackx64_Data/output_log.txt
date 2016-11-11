@@ -1,0 +1,223 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     8145 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Git\All-Black\All Black\Builds\AllBlackx64_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Git\All-Black\All Black\Builds\AllBlackx64_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Git\All-Black\All Black\Builds\AllBlackx64_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Git\All-Black\All Black\Builds\AllBlackx64_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Git\All-Black\All Black\Builds\AllBlackx64_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Git\All-Black\All Black\Builds\AllBlackx64_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Git\All-Black\All Black\Builds\AllBlackx64_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Git\All-Black\All Black\Builds\AllBlackx64_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Git\All-Black\All Black\Builds\AllBlackx64_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Git\All-Black\All Black\Builds\AllBlackx64_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.153 seconds
+Platform assembly: E:\Git\All-Black\All Black\Builds\AllBlackx64_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Git\All-Black\All Black\Builds\AllBlackx64_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on PureData
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+OpenVR initialized!
+ 
+(Filename:  Line: 353)
+
+UnloadTime: 0.578922 ms
+Failed to load 'E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll', expected 64 bit architecture (IMAGE_FILE_MACHINE_AMD64), but was IMAGE_FILE_MACHINE_I386. You must recompile your plugin for 64 bit architecture.
+ 
+(Filename:  Line: 108)
+
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Failed to load 'E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll', expected 64 bit architecture (IMAGE_FILE_MACHINE_AMD64), but was IMAGE_FILE_MACHINE_I386. You must recompile your plugin for 64 bit architecture.
+ 
+(Filename:  Line: 108)
+
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Failed to load 'E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll', expected 64 bit architecture (IMAGE_FILE_MACHINE_AMD64), but was IMAGE_FILE_MACHINE_I386. You must recompile your plugin for 64 bit architecture.
+ 
+(Filename:  Line: 108)
+
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Failed to load 'E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll', expected 64 bit architecture (IMAGE_FILE_MACHINE_AMD64), but was IMAGE_FILE_MACHINE_I386. You must recompile your plugin for 64 bit architecture.
+ 
+(Filename:  Line: 108)
+
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Failed to load 'E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll', expected 64 bit architecture (IMAGE_FILE_MACHINE_AMD64), but was IMAGE_FILE_MACHINE_I386. You must recompile your plugin for 64 bit architecture.
+ 
+(Filename:  Line: 108)
+
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Failed to load 'E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll', expected 64 bit architecture (IMAGE_FILE_MACHINE_AMD64), but was IMAGE_FILE_MACHINE_I386. You must recompile your plugin for 64 bit architecture.
+ 
+(Filename:  Line: 108)
+
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Failed to load 'E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll', expected 64 bit architecture (IMAGE_FILE_MACHINE_AMD64), but was IMAGE_FILE_MACHINE_I386. You must recompile your plugin for 64 bit architecture.
+ 
+(Filename:  Line: 108)
+
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Failed to load 'E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll', expected 64 bit architecture (IMAGE_FILE_MACHINE_AMD64), but was IMAGE_FILE_MACHINE_I386. You must recompile your plugin for 64 bit architecture.
+ 
+(Filename:  Line: 108)
+
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/.\libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+Fallback handler could not load library E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Mono/libE:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+DllNotFoundException: E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+  at (wrapper managed-to-native) LibPDBinding.LibPD:start_message (int)
+  at LibPDBinding.LibPD.ProcessArgs[Int32] (System.Int32[] args, System.String& debug) [0x00000] in <filename unknown>:0 
+  at LibPDBinding.LibPD.SendMessage[Int32] (System.String receiver, System.String message, System.Int32[] args) [0x00000] in <filename unknown>:0 
+  at (wrapper synchronized) LibPDBinding.LibPD:SendMessage (string,string,int[])
+  at LibPDBinding.LibPD.ComputeAudio (Boolean state) [0x00000] in <filename unknown>:0 
+  at (wrapper synchronized) LibPDBinding.LibPD:ComputeAudio (bool)
+  at LibPDBinding.LibPD.Release () [0x00000] in <filename unknown>:0 
+  at (wrapper synchronized) LibPDBinding.LibPD:Release ()
+  at LibPDBinding.LibPD.ReInit () [0x00000] in <filename unknown>:0 
+  at (wrapper synchronized) LibPDBinding.LibPD:ReInit ()
+  at LibPDBinding.LibPD..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for LibPDBinding.LibPD
+  at Magicolo.AudioTools.PureDataBridge.SetAudioSettings () [0x00000] in <filename unknown>:0 
+  at Magicolo.AudioTools.PureDataBridge.StartLibPD () [0x00000] in <filename unknown>:0 
+  at Magicolo.AudioTools.PureDataBridge.Start () [0x00000] in <filename unknown>:0 
+  at PureData.StartAll () [0x00000] in <filename unknown>:0 
+  at PureData.Initialize () [0x00000] in <filename unknown>:0 
+  at PureData.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Connected to lighthouse:LHR-60A46D8A
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Sequence named 1 was not found.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Magicolo.AudioTools.PureDataSequenceManager.GetSequence (System.String sequenceName, System.Object source) [0x00000] in <filename unknown>:0 
+  at Magicolo.AudioTools.PureDataItemManager.GetSequenceItem (System.String sequenceName, System.Object source) [0x00000] in <filename unknown>:0 
+  at Magicolo.AudioTools.PureDataItemManager.PlaySequence (System.String sequenceName, System.Object source, Single delay, .PureDataOption[] options) [0x00000] in <filename unknown>:0 
+  at PureData.PlaySequence (System.String sequenceName, .PureDataOption[] options) [0x00000] in <filename unknown>:0 
+  at PDSequencerObject.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1008c -> priority: 1 
+Loading render model C:\Program Files (x86)\Steam\steamapps\workshop\content\250820\698557961\vr_controller_vive_1_5\body.obj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Loading render model C:\Program Files (x86)\Steam\steamapps\workshop\content\250820\698557961\vr_controller_vive_1_5\button.obj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Loading render model C:\Program Files (x86)\Steam\steamapps\workshop\content\250820\698557961\vr_controller_vive_1_5\led.obj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Loading render model C:\Program Files (x86)\Steam\steamapps\workshop\content\250820\698557961\vr_controller_vive_1_5\l_grip.obj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Loading render model C:\Program Files (x86)\Steam\steamapps\workshop\content\250820\698557961\vr_controller_vive_1_5\r_grip.obj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Loading render model C:\Program Files (x86)\Steam\steamapps\workshop\content\250820\698557961\vr_controller_vive_1_5\scroll_wheel.obj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Loading render model C:\Program Files (x86)\Steam\steamapps\workshop\content\250820\698557961\vr_controller_vive_1_5\status.obj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Loading render model C:\Program Files (x86)\Steam\steamapps\workshop\content\250820\698557961\vr_controller_vive_1_5\sys_button.obj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Loading render model C:\Program Files (x86)\Steam\steamapps\workshop\content\250820\698557961\vr_controller_vive_1_5\trackpad.obj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Loading render model C:\Program Files (x86)\Steam\steamapps\workshop\content\250820\698557961\vr_controller_vive_1_5\trackpad_scroll_cut.obj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Loading render model C:\Program Files (x86)\Steam\steamapps\workshop\content\250820\698557961\vr_controller_vive_1_5\trackpad_touch.obj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Loading render model C:\Program Files (x86)\Steam\steamapps\workshop\content\250820\698557961\vr_controller_vive_1_5\trigger.obj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+DllNotFoundException: E:/Git/All-Black/All Black/Builds/AllBlackx64_Data/Plugins/libpdcsharp.dll
+  at (wrapper managed-to-native) LibPDBinding.LibPD:start_message (int)
+  at LibPDBinding.LibPD.ProcessArgs[Int32] (System.Int32[] args, System.String& debug) [0x00000] in <filename unknown>:0 
+  at LibPDBinding.LibPD.SendMessage[Int32] (System.String receiver, System.String message, System.Int32[] args) [0x00000] in <filename unknown>:0 
+  at (wrapper synchronized) LibPDBinding.LibPD:SendMessage (string,string,int[])
+  at LibPDBinding.LibPD.ComputeAudio (Boolean state) [0x00000] in <filename unknown>:0 
+  at (wrapper synchronized) LibPDBinding.LibPD:ComputeAudio (bool)
+  at LibPDBinding.LibPD.Release () [0x00000] in <filename unknown>:0 
+  at (wrapper synchronized) LibPDBinding.LibPD:Release ()
+  at LibPDBinding.LibPD.ReInit () [0x00000] in <filename unknown>:0 
+  at (wrapper synchronized) LibPDBinding.LibPD:ReInit ()
+  at LibPDBinding.LibPD..cctor () [0x00000] in <filename unknown>:0 
+Rethrow as TypeInitializationException: An exception was thrown by the type initializer for LibPDBinding.LibPD
+  at Magicolo.AudioTools.PureDataBridge.SetAudioSettings () [0x00000] in <filename unknown>:0 
+  at Magicolo.AudioTools.PureDataBridge.StartLibPD () [0x00000] in <filename unknown>:0 
+  at Magicolo.AudioTools.PureDataBridge.Start () [0x00000] in <filename unknown>:0 
+  at PureData.StartAll () [0x00000] in <filename unknown>:0 
+  at PureData.Initialize () [0x00000] in <filename unknown>:0 
+  at PureData.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+OpenVR Shutdown
+ 
+(Filename:  Line: 707)
+

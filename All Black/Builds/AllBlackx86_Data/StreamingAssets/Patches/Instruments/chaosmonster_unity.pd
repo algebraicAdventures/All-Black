@@ -1,0 +1,85 @@
+#N canvas 1192 232 685 662 10;
+#X declare -path ../Data -path ../Effects -path ../Misc -path ../Signal
+-path ../Sources -path ../Unity;
+#X obj 11 557 outlet~ left;
+#X obj 133 558 outlet~ right;
+#X obj 22 13 declare -path ../Data -path ../Effects -path ../Misc -path
+../Signal -path ../Sources -path ../Unity;
+#X obj 22 46 inlet patterns;
+#X obj 286 46 inlet messages;
+#X obj 286 66 route Play Stop Step Sleep;
+#X text 21 -8 Input:;
+#X obj 54 364 abs_osc_chaosmonster1;
+#X obj 56 399 *~ 0.5;
+#X obj 354 406 abs_uniquecatch1;
+#X obj 27 85 unpack f f f f f f f f f f;
+#X obj 10 500 uspatializer~ cube;
+#X obj 456 261 hsl 128 8 0 1 0 1 empty empty empty -2 -8 0 10 -204800
+-1 -1 6300 1;
+#X obj 456 204 hsl 128 8 -128 128 0 1 empty empty empty -2 -8 0 10
+-4034 -1 -1 8600 1;
+#X obj 456 273 hsl 128 8 1 999 1 1 empty empty empty -2 -8 0 10 -262130
+-1 -1 12700 1;
+#X obj 456 215 hsl 128 8 0.01 3000 1 1 empty empty empty -2 -8 0 10
+-204786 -1 -1 9200 1;
+#X obj 601 183 vsl 8 100 0 1 0 1 empty empty empty 0 -9 0 10 -262144
+-1 -1 5800 1;
+#X obj 590 183 vsl 8 100 0 1 0 1 empty empty empty 0 -9 0 10 -260097
+-1 -1 3300 1;
+#X obj 456 192 hsl 128 8 1 1000 1 1 empty empty empty -2 -8 0 10 -232576
+-1 -1 11800 1;
+#X obj 456 227 hsl 128 8 0 128 0 1 empty empty empty -2 -8 0 10 -162280
+-1 -1 10300 1;
+#X obj 456 249 hsl 128 8 0.01 3000 1 1 empty empty empty -2 -8 0 10
+-228856 -1 -1 9500 1;
+#X obj 456 238 hsl 128 8 0.01 1 1 1 empty empty empty -2 -8 0 10 -191407
+-1 -1 9200 1;
+#X floatatom 365 171 5 0 0 0 - - -, f 5;
+#X floatatom 365 191 5 0 0 0 - - -, f 5;
+#X floatatom 365 211 5 0 0 0 - - -, f 5;
+#X floatatom 365 230 5 0 0 0 - - -, f 5;
+#X floatatom 365 251 5 0 0 0 - - -, f 5;
+#X floatatom 363 290 5 0 0 0 - - -, f 5;
+#X floatatom 362 312 5 0 0 0 - - -, f 5;
+#X floatatom 590 291 5 0 0 0 - - -, f 5;
+#X floatatom 601 309 5 0 0 0 - - -, f 5;
+#X floatatom 364 270 5 0 0 0 - - -, f 5;
+#X connect 3 0 10 0;
+#X connect 4 0 5 0;
+#X connect 7 0 8 0;
+#X connect 8 0 11 0;
+#X connect 8 0 11 1;
+#X connect 9 0 7 10;
+#X connect 9 1 7 11;
+#X connect 10 0 7 0;
+#X connect 10 1 7 1;
+#X connect 10 2 7 2;
+#X connect 10 3 7 3;
+#X connect 10 4 7 4;
+#X connect 10 5 7 5;
+#X connect 10 6 7 6;
+#X connect 10 7 7 7;
+#X connect 10 8 7 8;
+#X connect 10 9 7 9;
+#X connect 11 0 0 0;
+#X connect 11 1 1 0;
+#X connect 12 0 27 0;
+#X connect 13 0 23 0;
+#X connect 14 0 28 0;
+#X connect 15 0 24 0;
+#X connect 16 0 30 0;
+#X connect 17 0 29 0;
+#X connect 18 0 22 0;
+#X connect 19 0 25 0;
+#X connect 20 0 31 0;
+#X connect 21 0 26 0;
+#X connect 22 0 7 0;
+#X connect 23 0 7 1;
+#X connect 24 0 7 2;
+#X connect 25 0 7 3;
+#X connect 26 0 7 4;
+#X connect 27 0 7 6;
+#X connect 28 0 7 7;
+#X connect 29 0 7 8;
+#X connect 30 0 7 9;
+#X connect 31 0 7 5;
